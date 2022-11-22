@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LionelSebastian
-- 👀 I’m interested in becamin a full stack developer
+- 👀 I’m interested full stack developeing
 - 🌱 I’m currently learning VUE.JS
 - 💞️ I’m looking to collaborate on any open source project 
 - 📫 How to reach me ...lionel.sebastian.cifo@gmail.com
